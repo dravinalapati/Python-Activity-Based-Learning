@@ -1,6 +1,17 @@
-# Python Activity-Based Learning
+# Python Activity-Based Learning — 10 Case Studies
 
-A collection of **10 complete Python case studies** developed strictly using the foundational Python syllabus:
+A beginner-friendly Python practical project based on the uploaded Python Activity-Based Learning case-study sheet. Exactly 10 selected case studies are implemented using only the assigned syllabus.
+
+## Student Details
+- **Student Name:** ALAPATI NAGA DRAVIN
+- **Roll Number:** 26000419
+- **Section:** 1
+- **Branch:** CSE
+- **Subject:** Python Programming
+
+---
+
+## Syllabus Scope & Constraints
 
 > **Assigned Syllabus:** Computational thinking, algorithms, flowcharts, pseudocode, variables, data types, operators, conditional statements, loops, strings, pattern generation, lists, nested lists, tuples, tuple operations, and tuple unpacking.
 
@@ -39,6 +50,3 @@ Each folder contains:
 
 ```bash
 python Case_Study_01_University_Scholarship_Allocation/solution.py
-```
-
-Replace the folder path with any of the 10 case studies to inspect the full test-case execution output.
